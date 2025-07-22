@@ -1,4 +1,7 @@
-README - SEG3503 Devoir 3
+Nom d'étudiant(s): Eric Albert et Zachary Shewan
+Numéro d'étudiant(s): 300353640 et 300273108
+Code du cours: SEG 3503
+Section du cours: Z00
 
 Contenu de l'archive:
 1. SEG3503_Devoir3_Rapport.docx - Rapport complet (Q1.1, Q1.2, Q1.3, Partie 2).
