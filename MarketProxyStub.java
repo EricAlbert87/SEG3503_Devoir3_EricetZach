@@ -1,4 +1,3 @@
-
 package Counter;
 
 public class MarketProxyStub extends MarketProxy {
